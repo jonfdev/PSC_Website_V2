@@ -1,0 +1,11 @@
+# main links
+main:
+
+  - title: "About"
+    url: /about
+  - title: "Take Action Now"
+    url: /take-action-now
+  - title: "Events"
+    url: /events/
+  - title: "Campaigns"
+    url: /campaigns/

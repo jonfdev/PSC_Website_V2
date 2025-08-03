@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: Campaigns
+title: Current Campaigns
 permalink: /campaigns/
 author_profile: false
 collection: campaigns

@@ -27,7 +27,7 @@ baseurl                  : "/PSC_Website_V2"
 repository               : "jonfdev/PSC_Website_V2"
 teaser                   : #
 logo                     : "/assets/images/B_PSC_Logo.jpg"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : 
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
@@ -144,12 +144,15 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Email"
+      icon: "fa-regular icon--white fa-envelope"
+      url: "mailto:bristolpsc@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
     - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+      icon: "fab icon--white fa-fw fa-facebook-square"
+      url: https://www.facebook.com/bristol.psc/?locale=en_GB
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
@@ -160,8 +163,8 @@ footer:
       icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      icon: "fab fa-fw icon--white fa-instagram"
+      url: https://www.instagram.com/palestinesolidaritybristol/?hl=en
   since: "2025"
 
 

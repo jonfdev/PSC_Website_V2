@@ -5,4 +5,6 @@ permalink: /about/
 author_profile: false
 ---
 
-Example content.
+When founded.
+
+Contact Details e.g. Whatsapp, email etc.

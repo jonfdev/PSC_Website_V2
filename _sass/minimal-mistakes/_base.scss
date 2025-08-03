@@ -1,6 +1,10 @@
 /* ==========================================================================
    BASE ELEMENTS
    ========================================================================== */
+@font-face {
+  font-family: 'PT Sans';
+  src: url(/assets/fonts/PT-Sans-2.woff2) format('woff2');
+}
 
 html {
   /* sticky footer fix */

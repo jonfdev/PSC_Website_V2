@@ -19,6 +19,7 @@ $indent-var: 1.3em !default;
 /* https://github.com/system-fonts/modern-font-stacks */
 
 /* Sans serif - modern font stack */
+$font-PT_Sans: 'PT Sans', sans-serif;
 $system-ui: system-ui, sans-serif;
 $humanist: Seravek, 'Gill Sans Nova', Ubuntu, Calibri, 'DejaVu Sans', source-sans-pro, sans-serif;
 $geometric-humanist: Avenir, Montserrat, Corbel, 'URW Gothic', source-sans-pro, sans-serif;
@@ -61,7 +62,7 @@ $emoji-native: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto C
 
 /* system typefaces */
 $serif: $default-serif !default;
-$sans-serif: $default-sans-serif !default;
+$sans-serif: $font-PT_Sans!default;
 $sans-serif-narrow: $sans-serif !default;
 $monospace: $default-monospace !default;
 

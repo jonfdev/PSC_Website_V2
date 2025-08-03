@@ -10,23 +10,23 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
+#theme                  : "minimal-mistakes-jekyll"
+#remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-GB"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Bristol Palestine Solidarity Campaign"
-title_separator          : "-"
+title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "John Fish"
 description              : "A website for the Bristol Palestine Solidarity Campaign"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+url                      : "https://jonfdev.github.io/"
+baseurl                  : "/PSC_Website_V2"
+repository               : "jonfdev/PSC_Website_V2"
+teaser                   : #
+logo                     : "/assets/images/B_PSC_logo.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -34,7 +34,7 @@ enable_copy_code_button  : # true, false (default)
 copyright                : # "copyright" name, defaults to site.title
 copyright_url            : # "copyright" URL, defaults to site.url
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               : # 
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:

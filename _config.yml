@@ -26,7 +26,7 @@ url                      : "https://jonfdev.github.io/"
 baseurl                  : "/PSC_Website_V2"
 repository               : "jonfdev/PSC_Website_V2"
 teaser                   : #
-logo                     : "/assets/images/B_PSC_logo.jpg"
+logo                     : "/assets/images/B_PSC_Logo.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
